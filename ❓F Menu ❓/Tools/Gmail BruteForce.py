@@ -9,7 +9,7 @@ smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
 smtpserver.ehlo()
 smtpserver.starttls()
 
-user = input("Enter The Target Gmail Adress => ")
+user = Kjay21324:gmail.com("Enter The Target Gmail Adress => ")
 
 print("\n")
 
